@@ -1,8 +1,7 @@
-### Hi there 👋, i'm soyeon KIM
+### Hi there 👋, i'm Soyeon KIM
 - 🌱 I’m currently learning spring 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ yeonnns)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username= yeonnns)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **yeonnns/yeonnns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
