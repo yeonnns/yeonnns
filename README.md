@@ -1,6 +1,6 @@
 ### Hi there 👋, i'm Soyeon KIM
 - 🌱 I’m currently learning spring 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ yeonnns)  
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ yeonnns)  
 
 <!--
 **yeonnns/yeonnns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
